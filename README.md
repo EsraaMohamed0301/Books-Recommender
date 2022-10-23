@@ -5,3 +5,5 @@ In today’s business, a lot of companies are falling in sales because there are
 
 
 The three datasets being used for the analysis are a list of books(Bx-books) - including ISBN, author, title, and year published; a list of books that have been rated(Bx-book-Rating) - including ISBN, book rating, and user id who rated the book; and finally, the list of users( Bx-Users) who are rating the books using the application - including their location, age, and user id. The files are csv type.
+
+<a href="https://www.overleaf.com/read/kmyjymmbqwhx"> Thesis (Documentation)</a>
